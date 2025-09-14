@@ -8,3 +8,4 @@ print(stack)
 stack.append(40)
 print(stack[-1]) #peek
 print(len(stack)) #length of stack
+print(len(stack)==0) #is-empty
